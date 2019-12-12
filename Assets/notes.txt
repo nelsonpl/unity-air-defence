@@ -1,0 +1,36 @@
+﻿EPosition
+    {
+        01 - LeftUp,
+        02 - LeftCenter,
+        03 - LeftDown,
+        04 - RightUp,
+        05 - RightCenter,
+        06 - RightDown,
+        07 - DownLeftBorder,
+        08 - DownLeft,
+        09 - DownCenter,
+        10 - DownRight,
+        11 - DownRightBorder,
+        12 - UpLeftBorder,
+        13 - UpLeft,
+        14 - UpCenter,
+        15 - UpRight,
+        16 - UpRightBorder
+    }
+
+EVelocity
+    {
+        01 - Slow,
+        02 - Normal,
+        03 - Fast,
+        04 - SuperFast
+    }
+
+EShapeType
+    {
+        01 - CommercialAirplane,
+        02 - Warplanes,
+        03 - Bomb
+    }
+
+EPosition, EVelocity, EType
